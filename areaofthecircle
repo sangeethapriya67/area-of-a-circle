@@ -1,0 +1,5 @@
+#phython program to find area of a cicrle
+pi=3.14
+radius=float(input('enter the radius of the circle :'))
+area=pi*radius*radius
+print("Area of a circle = %.2f"%area)
